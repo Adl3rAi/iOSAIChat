@@ -2,9 +2,10 @@
 
 ## 8.3.2023 Version
 
-Successfully achieve the API Input Interface and Chat Interface
+**The entry interface that allows user to input its own OpenAI API in order to chat with the ChatGPT** 
 
-<img src="/Users/huqingyuan/Library/Application Support/typora-user-images/截屏2023-08-03 11.22.36.png" alt="截屏2023-08-03 11.22.36" style="zoom:25%;" />
+<img src="/Users/huqingyuan/Desktop/iOSAIChat/images/1apikeyinput.png" alt="1apikeyinput" style="zoom:50%;" />
 
-<img src="/Users/huqingyuan/Library/Application Support/typora-user-images/截屏2023-08-03 11.23.15.png" alt="截屏2023-08-03 11.23.15" style="zoom:25%;" />
+**In the chatting interface user can chat with ChatGPT and play the content audio**
 
+<img src="/Users/huqingyuan/Desktop/iOSAIChat/images/2aichat.png" alt="2aichat" style="zoom:50%;" />
