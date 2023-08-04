@@ -2,7 +2,6 @@
 //  APIKeyInputView.swift
 //  AIChat
 //
-//  Created by 胡卿元 on 2023/8/1.
 //
 
 import SwiftUI

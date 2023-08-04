@@ -2,7 +2,6 @@
 //  AIChatService.swift
 //  AIChat
 //
-//  Created by 胡卿元 on 2023/7/22.
 //
 
 import Foundation
@@ -44,9 +43,6 @@ struct AIChatService {
     }
     
     func requestAIResponse(language: String, messages: [chatAPIMessage], completion: @escaping ((Result<String, Error>) -> Void)) {
-//        let api = try! keychain.get("OpenAIAPIKey") ?? "nil"
-//        print("The api in the keychain is now \(api)")
-//        print("The real api is now \(openAIAPIKey)")
         let url = URL(string: "https://api.openai.com/v1/chat/completions")!
         var request = URLRequest(url: url)
         request.httpMethod = "Post"

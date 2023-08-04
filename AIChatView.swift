@@ -2,7 +2,6 @@
 //  AIChatView.swift
 //  AIChat
 //
-//  Created by 胡卿元 on 2023/7/22.
 //
 
 import SwiftUI
